@@ -17,6 +17,7 @@ images:
 ---
 
 Here's an example for multiple images that uses Bootstrap's Carousel javascript component for a photo slideshow. You don't need to write any JavaScript, just place some Liquid tags and HTML in your Markdown.
+Hello world from Virginie
 
 <!--more-->
 

@@ -18,6 +18,7 @@ images:
 ---
 
 Here's an example that extends the Masonry layout to add a Lightbox to show each image. 
+Good bye
 
 <!--more-->
 
