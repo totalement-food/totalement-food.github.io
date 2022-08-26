@@ -1,6 +1,6 @@
 ---
 layout: defaults/page
-permalink: kefir-de-fruits-ventre-plat.html
+permalink: kefir-de-fruits.html
 narrow: false
 title: Kéfir de fruits ventre plat
 
