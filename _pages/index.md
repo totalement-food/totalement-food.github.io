@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: index.html
-narrow: true
+narrow: false
 title: Bienvenue chez Totalement Food
 ---
 
