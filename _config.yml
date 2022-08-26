@@ -7,8 +7,8 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Baguettes sur Levain            # Site title
-name:             Baguettes sur Levain           # Your name
+title:            Totalement Food            # Site title
+name:             Totalement Food          # Your name
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
