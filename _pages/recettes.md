@@ -9,6 +9,7 @@ title: Les Recettes Totalement Food
 ### [Les cookies vegan de Johanna Le Pape](cookie-vegan-johanna-le-pape.html)
 ### [La brioche mie filante](brioche-facile.html)
 ### [Kéfir de Fruits ventre plat](kefir-de-fruits.html)
+### [Baguettes sur levain sans robot - pétrissage à la main (facile)](baguette-sur-levain.html)
 
 
 
