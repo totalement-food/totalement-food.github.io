@@ -1,13 +1,9 @@
-- title: Home
+- title: Accueil
   href: index.html
 
-- title: About
-  href: about.html
+- title: Recettes
+  href: Recettes.html
 
-- title: Posts
-  href: list/posts.html
 
-- title: Documentation
-  href: list/projects.html
 
 
