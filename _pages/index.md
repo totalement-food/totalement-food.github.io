@@ -2,14 +2,14 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: Bienvenue chez Totalement Food
 ---
 
-## What is it?
+## Pourquoi cette page ?
 
 {% include components/intro.md %}
 
-[Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
+![Ceci est un exemple d’image](img/baguettevignette.png)
 
 ## How to use it
 
@@ -20,11 +20,5 @@ This web site is the documentation for the theme and also provides examples of h
 [The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
 
 <hr />
-
-### Recent Posts
-
-{% for post in site.posts limit:3 %}
-{% include components/post-card.html %}
-{% endfor %}
 
 
