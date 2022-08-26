@@ -5,8 +5,8 @@ narrow: true
 title: Les Recettes Totalement Food
 ---
 
-- Les madeleines au citron de Cyril Lignac
-- Les cookies vegan de Johanna Le Pape
+### [Les madeleines au citron de Cyril Lignac](madeleine-cyril-lignac.html)
+ Les cookies vegan de Johanna Le Pape
 
 
 
