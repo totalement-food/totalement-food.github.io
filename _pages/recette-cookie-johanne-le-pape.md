@@ -18,4 +18,4 @@ title: Cookies vegan peanut butter coco, façon Johanna Le Pape (comment rattrap
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFHD0W-RfA&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFHD0W-RfA&#x2F;view?utm_content=DAFHD0W-RfA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">COOKIES VEGAN JOHANNA LEPAPE</a> par Virginie Lozingrall
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFHD0W-RfA&#x2F;view?utm_content=DAFHD0W-RfA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">COOKIES VEGAN JOHANNA LEPAPE</a> par Totalement Food
