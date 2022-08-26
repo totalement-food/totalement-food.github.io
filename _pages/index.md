@@ -9,7 +9,7 @@ title: Bienvenue chez Totalement Food
 
 {% include components/intro.md %}
 
-![Totalement Food](img/banniereyoutube.png)
+![Totalement Food](img/vignettesiteweb.png)
 
 
 
