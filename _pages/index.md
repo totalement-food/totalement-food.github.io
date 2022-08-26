@@ -1,6 +1,6 @@
 ---
 layout: defaults/page
-permalink: accueil.html
+permalink: index.html
 narrow: false
 title: Bienvenue chez Totalement Food
 ---
