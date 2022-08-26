@@ -12,9 +12,10 @@ I͟C͟I͟ ͟t͟u͟ ͟t͟r͟o͟u͟v͟e͟r͟a͟s͟ ͟:͟ ͟
 ＊ 𝐃𝐞𝐬 𝐫𝐞𝐜𝐞𝐭𝐭𝐞𝐬 𝐞𝐧 𝐭𝐨𝐮𝐭 𝐠𝐞𝐧𝐫𝐞 - 𝐝𝐞𝐬 𝐟𝐚𝐜𝐢𝐥𝐞𝐬, 𝐝𝐞𝐬 𝐩𝐥𝐮𝐬 𝐭𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬, 𝐝𝐮 𝐬𝐮𝐜𝐫é, 𝐝𝐮 𝐬𝐚𝐥é, 𝐞𝐭𝐜 
 ＊ 𝐃𝐞𝐬 𝐚𝐬𝐭𝐮𝐜𝐞𝐬 𝐞𝐭 𝐝𝐞𝐬 𝐜𝐨𝐧𝐬𝐞𝐢𝐥𝐬...
 
-
+Youtube : https://www.youtube.com/channel/UCb9zqIUChaEMNH2W7B8Y2Eg
 Facebook : https://www.facebook.com/TotalementFood
 Instagram : https://www.instagram.com/totalement_food/
+Tik-Tok : @totalement_food
 
 
 𝐏𝐨𝐮𝐫 𝐭𝐨𝐮𝐭𝐞 𝐝𝐞𝐦𝐚𝐧𝐝𝐞 𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐢𝐚𝐥𝐞: 𝐭𝐨𝐭𝐚𝐥𝐞𝐦𝐞𝐧𝐭.𝐟𝐨𝐨𝐝@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
