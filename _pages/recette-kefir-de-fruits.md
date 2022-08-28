@@ -1,5 +1,5 @@
 ---
-layout: defaults
+layout: default
 permalink: kefir-de-fruits.html
 title: Kéfir de fruits ventre plat
 

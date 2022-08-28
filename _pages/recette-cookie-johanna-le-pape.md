@@ -1,5 +1,5 @@
 ---
-layout: defaults
+layout: default
 permalink: cookie-vegan-johanna-le-pape.html
 title: Cookies vegan peanut butter coco, façon Johanna Le Pape (comment rattraper un ratage)
 
