@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: recette
 permalink: brioche-facile.html
 title: La brioche mie filante super facile(2 astuces inratables + 1 dans la fiche recette)
+img: baguette-levain.jpg
 
 ---
 

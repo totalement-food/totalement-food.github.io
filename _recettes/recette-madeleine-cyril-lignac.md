@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: recette
 permalink: madeleine-cyril-lignac.html
 title: Les Madeleines façon Cyril Lignac (ULTRA SIMPLE - BOSSE GARANTIE)
+img: baguette-levain.jpg
+
 ---
 
 ## La Vidéo pas à pas

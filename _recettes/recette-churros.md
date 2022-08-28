@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: recette
 permalink: churros-con-chocolate.html
 title: Churros con Chocolate en direct de Madrid (Ultra Facile)
+img: baguette-levain.jpg
 
 ---
 

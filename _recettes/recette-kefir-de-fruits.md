@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: recette
 permalink: kefir-de-fruits.html
 title: Kéfir de fruits ventre plat
+img: baguette-levain.jpg
 
 ---
 
