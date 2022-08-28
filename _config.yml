@@ -52,5 +52,5 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
 
-include: [_pages]
+include: [_pages, _recettes]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
