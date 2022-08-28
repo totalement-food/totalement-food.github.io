@@ -1,7 +1,6 @@
 ---
-layout: defaults/page
+layout: defaults
 permalink: baguette-sur-levain.html
-narrow: false
 title: Baguettes sur levain sans robot - pétrissage à la main (facile)
 
 ---

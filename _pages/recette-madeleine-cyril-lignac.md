@@ -1,7 +1,6 @@
 ---
-layout: defaults/page
+layout: defaults
 permalink: madeleine-cyril-lignac.html
-narrow: false
 title: Les Madeleines façon Cyril Lignac (ULTRA SIMPLE - BOSSE GARANTIE)
 ---
 

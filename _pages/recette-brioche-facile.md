@@ -1,7 +1,6 @@
 ---
-layout: defaults/page
+layout: defaults
 permalink: brioche-facile.html
-narrow: false
 title: La brioche mie filante super facile(2 astuces inratables + 1 dans la fiche recette)
 
 ---

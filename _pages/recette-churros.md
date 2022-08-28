@@ -1,7 +1,6 @@
 ---
-layout: defaults/page
+layout: defaults
 permalink: churros-con-chocolate.html
-narrow: false
 title: Churros con Chocolate en direct de Madrid (Ultra Facile)
 
 ---

@@ -1,7 +1,6 @@
 ---
-layout: defaults/page
+layout: defaults
 permalink: recettes.html
-narrow: false
 title: Les Recettes Totalement Food
 ---
 
