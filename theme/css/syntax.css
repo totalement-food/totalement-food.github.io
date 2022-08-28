@@ -65,5 +65,22 @@
  .gi { color: #1e0010; } /* Generic.Inserted & Diff Inserted */
 
 
-.a { color: #F2B884; }
+/* unvisited link */
+a:link {
+  color: red;
+}
 
+/* visited link */
+a:visited {
+  color: red;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
