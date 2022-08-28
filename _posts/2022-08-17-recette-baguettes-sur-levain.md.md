@@ -3,6 +3,7 @@ layout: recette
 permalink: baguette-sur-levain.html
 title: Baguettes sur levain sans robot - pétrissage à la main (facile)
 img: baguette-levain.jpg
+date: 2022-08-17 12:55:00 +0300
 
 ---
 
