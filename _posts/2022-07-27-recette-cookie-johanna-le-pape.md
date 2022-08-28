@@ -2,7 +2,7 @@
 layout: recette
 permalink: cookie-vegan-johanna-le-pape.html
 title: Cookies vegan peanut butter coco, façon Johanna Le Pape (comment rattraper un ratage)
-img: baguette-levain.jpg
+img: cookie.jpg
 date: 2022-07-27 12:55:00 +0300
 
 ---

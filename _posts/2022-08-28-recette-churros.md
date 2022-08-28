@@ -2,7 +2,7 @@
 layout: recette
 permalink: churros-con-chocolate.html
 title: Churros con Chocolate en direct de Madrid (Ultra Facile)
-img: baguette-levain.jpg
+img: churros.jpg
 date: 2022-08-28 12:55:00 +0300
 
 ---

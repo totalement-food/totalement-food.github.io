@@ -2,7 +2,7 @@
 layout: recette
 permalink: kefir-de-fruits.html
 title: Kéfir de fruits ventre plat
-img: baguette-levain.jpg
+img: kefir.jpg
 date: 2022-08-10 12:55:00 +0300
 
 ---
