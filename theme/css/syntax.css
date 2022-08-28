@@ -63,3 +63,7 @@
  .gu { color: #75715e; } /* Generic.Subheading & Diff Unified/Comment? */
  .gd { color: #f92672; } /* Generic.Deleted & Diff Deleted */
  .gi { color: #1e0010; } /* Generic.Inserted & Diff Inserted */
+
+
+.gi { color: #F2B884; }
+
