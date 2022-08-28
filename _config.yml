@@ -1,74 +1,56 @@
-# Outputting
-permalink: /:categories/:year/:month/:day/:title.html
+logo: # add logo name
+title: Bef - Enjoy Freedom
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/bef" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Conversion
-markdown:         kramdown
-highlighter:      rouge
-excerpt_separator: <!--more-->
+# Banner settings
+video: mountains.mp4 # add banner video. Add your video file to the folder video
+banner-title: # add banner title
+banner-desc: # add banner description
 
-# Config for your profile.
-title:            Totalement Food            # Site title
-name:             Totalement Food          # Your name
-avatar:           /theme/img/avatar.jpg   # Path to an avatar image
+# Author settings
+author-pic: face.jpg # your photo
+author-name: # your name
+about-author: # about author
+email: your-email@domain.com # your email
+phone: (496)-169-6557 # your pnone number
+website: https://dwayne.example.com # you website
 
-# The theme uses the baseurl throughout, which is useful for running the entire
-# site under a subdir, like for this GitHub Pages deployment as a project site.
-# Use "" when runnign the site out of the root of a domain.
-baseurl: "/"
+# Social link
+google_url:    # add url link
+twitter_url:   # add url link
+instagram_url: # add url link
+pinterest_url: # add url link
+dribbble_url:  # add url link
+facebook_url:  # add url link
 
-# Add a directory to hold misc pages, just to keep the root directory clean.
-include: ["_pages", "_portfolio"]
+# Disqus
+discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
 
-# Wire in the SASS files in the theme directory.
-sass:
-  sass_dir: theme/_sass
-  style: compressed
+# Newsletter
+mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
-# Turn the projects into a collection.
-collections:
-  projects:
-    output: true
-    title: Projects
-    permalink: /:collection/:name.html
-  portfolio:
-    output: true
-    title: portfolio
-    permalink: /:collection/:name.html
+# Tracker
+analytics:
 
-defaults:
-# Turn the profile sidebar on for all pages by default, except for the
-# collections, where it is off and replaced by useful things on the sidebar.
-# To override this one a page, use
-#    show_profile: false
-# to hide the profile.
-  -
-    scope:
-      path: ""
-    values:
-      show_profile: false
-  -
-    scope:
-      path: "_posts"
-    values:
-      show_profile: false
-      layout: defaults/post
-  -
-    scope:
-      path: "_portfolio"
-    values:
-      show_profile: false
-      layout: defaults/portfolio
-  -
-    scope:
-      path: "_projects"
-    values:
-      show_profile: false
-      layout: defaults/project
-  -
-    scope:
-      path: "list"
-    values:
-      show_profile: false
-      layout: defaults/list
+# Paginate
+paginate: 12
+paginate_path: /page:num/
 
+# Build settings
+markdown: kramdown
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-sitemap
 
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
