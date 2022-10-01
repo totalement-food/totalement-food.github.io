@@ -1,7 +1,7 @@
 ---
 layout: recette
-permalink: yaourt.html
-title: Yaourt au lait d'amandes avec ou sans Cookeo (Ultra Facile et Super Bon) - comme La Laitière
+permalink: entremetautomne.html
+title: Les tribulations d'un cake Totalement Food - Entremet au sirop d'érable, noix de pécan et chocolat
 img: saveursdautomne.jpg
 date: 2022-09-28 10:00:00 +0300
 
