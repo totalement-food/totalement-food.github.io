@@ -1,6 +1,6 @@
 ---
 layout: recette
-permalink: laitdamande.html
+permalink: laitdamandemaison.html
 title: Lait d'amandes maison - savoureux, économique et tellement facile que tu ne voudras plus en acheter
 img: laitdamande.jpg
 date: 2022-10-05 10:00:00 +0300
