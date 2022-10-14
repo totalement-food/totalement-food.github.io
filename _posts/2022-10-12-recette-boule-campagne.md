@@ -1,6 +1,6 @@
 ---
 layout: recette
-permalink: boulecampagne.html
+permalink: bouledecampagne.html
 title: Boule de campagne au petit épeautre - Toutes mes astuces pour le réussir pain cocotte au levain
 img: boulecampagne.jpg
 date: 2022-10-12 10:00:00 +0300
