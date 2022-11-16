@@ -11,6 +11,14 @@ title: Les Recettes Totalement Food
 ### [Baguettes sur levain sans robot - pétrissage à la main (facile)](baguette-sur-levain.html)
 ### [Churros con Chocolate en direct de Madrid (Ultra Facile)](churros-con-chocolate.html)
 ### [Entremet chocolat framboise pour notre anniversaire de mariage](entremet-blacknpeps.html)
+### [Yaourt au lait d'amandes avec ou sans Cookeo (Ultra Facile et Super Bon) - comme La Laitière](yaourt.html)
+### [Les tribulations d'un cake Totalement Food - Entremet au sirop d'érable, noix de pécan et chocolat](entremetautomne.html)
+### [Lait d'amandes maison - savoureux, économique et tellement facile que tu ne voudras plus en acheter](laitdamandemaison.html)
+### [Boule de campagne au petit épeautre - Toutes mes astuces pour le réussir pain cocotte au levain](bouledecampagne.html)
+### [Le Brun D'Automne - Cake Food Porn érable et pécan *** pâte à tartiner maison super bonne](cake-automne.html)
+### [Biscuits d'Halloween aux visages effrayants](biscuithalloween.html)
+### [Comment fabriquer son Tofu maison + BONUS une recette VEGAN de tofu croustillant en moins de 30 min](tofumaison.html)
+### [2 recettes avec okara de soja - Biscuits saveur pain d'épices et Kinako (farine de soja torréfiée)](okara.html)
 
 
 
