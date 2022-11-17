@@ -19,7 +19,7 @@ title: Les Recettes Totalement Food
 ### [Biscuits d'Halloween aux visages effrayants](biscuithalloween.html)
 ### [Comment fabriquer son Tofu maison + BONUS une recette VEGAN de tofu croustillant en moins de 30 min](tofumaison.html)
 ### [2 recettes avec okara de soja - Biscuits saveur pain d'épices et Kinako (farine de soja torréfiée)](okara.html)
-
+### [Far Breton aux pruneaux - tellement simple mais redoutablement efficace - Mon dessert préféré au monde](farauxpruneaux.html)
 
 
 
