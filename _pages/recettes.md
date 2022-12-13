@@ -22,6 +22,7 @@ title: Les Recettes Totalement Food
 ### [Far Breton aux pruneaux - tellement simple mais redoutablement efficace - Mon dessert préféré au monde](farauxpruneaux.html)
 ### [Macarons toutes les astuces pour enfin réussir + 2 ganaches (mandarine et chocolat)](macarons.html)
 ### [Bûche salée légère et festive (+ un bonus totalement vegan) pour un Noël végé et vegan friendly](buchesalee.html)
+### [Onglets de seitan, sauce gravy et sa compotée de poireaux - vegan/vege friendly pour NOËL](seitan.html)
 
 
 
