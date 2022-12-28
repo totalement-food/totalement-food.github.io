@@ -24,6 +24,6 @@ title: Les Recettes Totalement Food
 ### [Bûche salée légère et festive (+ un bonus totalement vegan) pour un Noël végé et vegan friendly](buchesalee.html)
 ### [Onglets de seitan, sauce gravy et sa compotée de poireaux - vegan/vege friendly pour NOËL](seitan.html)
 ### [Dinde en Slow-cook sans matières grasses, ultra fondante et juteuse](dinde.html)
-
+### [Buche 2022](buche-2022.html)
 
 
