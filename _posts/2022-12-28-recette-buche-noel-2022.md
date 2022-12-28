@@ -2,7 +2,7 @@
 layout: recette
 permalink: buche-2022.html
 title: Bûche fraicheur citron yuzu
-img: buche-2022.jpg
+img: buche2022.jpg
 date: 2022-12-28 10:00:00 +0300
 
 ---
