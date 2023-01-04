@@ -25,5 +25,6 @@ title: Les Recettes Totalement Food
 ### [Onglets de seitan, sauce gravy et sa compotée de poireaux - vegan/vege friendly pour NOËL](seitan.html)
 ### [Dinde en Slow-cook sans matières grasses, ultra fondante et juteuse](dinde.html)
 ### [Buche 2022](buche-2022.html)
+### [Soupe à l'oignon au Companion de Moulinex](soupemoulinex.html)
 
 
