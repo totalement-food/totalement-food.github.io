@@ -3,7 +3,7 @@ layout: recette
 permalink: soupemoulinex.html
 title: Soupe à l'oignon au Companion *** Soupe détox
 img: soupeoignons.jpg
-date: 2022-11-09 10:00:00 +0300
+date: 2023-01-04 10:00:00 +0300
 
 ---
 
