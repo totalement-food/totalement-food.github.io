@@ -3,7 +3,7 @@ layout: recette
 permalink: galette-frangipane.html
 title: Galette des rois tradionnelle - le pas à pas complet
 img: galette.jpg
-date: 2022-01-09 10:00:00 +0300
+date: 2022-01-08 10:00:00 +0300
 
 ---
 
