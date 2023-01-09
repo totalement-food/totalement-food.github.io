@@ -26,5 +26,5 @@ title: Les Recettes Totalement Food
 ### [Dinde en Slow-cook sans matières grasses, ultra fondante et juteuse](dinde.html)
 ### [Buche 2022](buche-2022.html)
 ### [Soupe à l'oignon au Companion de Moulinex](soupemoulinex.html)
-
+### [Galette des rois tradionnelle - le pas à pas complet](galette-frangipane.html)
 
