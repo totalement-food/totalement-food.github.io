@@ -27,4 +27,5 @@ title: Les Recettes Totalement Food
 ### [Buche 2022](buche-2022.html)
 ### [Soupe à l'oignon au Companion de Moulinex](soupemoulinex.html)
 ### [Galette des rois tradionnelle - le pas à pas complet](galette-frangipane.html)
+### [Mousse au chocolat rapide en 5 min - seulement 2 ingrédients - quand il reste des blancs](mousse-rapide.html)
 
