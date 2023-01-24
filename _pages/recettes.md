@@ -29,4 +29,5 @@ title: Les Recettes Totalement Food
 ### [Galette des rois tradionnelle - le pas à pas complet](galette-frangipane.html)
 ### [Mousse au chocolat rapide en 5 min - seulement 2 ingrédients - quand il reste des blancs](mousse-rapide.html)
 ### [Caramel au beurre salé](caramel.html)
+### [Crêpes bretonnes](chandeleur.html)
 
