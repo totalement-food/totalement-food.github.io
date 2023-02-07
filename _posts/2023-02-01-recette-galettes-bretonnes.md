@@ -2,7 +2,7 @@
 layout: recette
 permalink: galette.html
 title: Les Galettes Bretonnes au Sarrasin
-img: galette.jpg
+img: bretonne.jpg
 date: 2023-02-01 10:00:00 +0300
 
 ---
